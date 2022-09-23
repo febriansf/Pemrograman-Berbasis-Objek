@@ -1,8 +1,8 @@
-public class Main {
+public class App {
 
     public static void main(String[] args) throws Exception {
 
-        double sisi, luasPersegi, luasTotalBangun1, luasTotalBangun2 , luasTotalLingkaran;
+        double luasPersegi, luasTotalBangun1, luasTotalBangun2 , luasTotalLingkaran;
 
         // Semua satuan dalam cm
 
